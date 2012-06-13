@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ReactionFadeTo' target in the 'ReactionFadeTo' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

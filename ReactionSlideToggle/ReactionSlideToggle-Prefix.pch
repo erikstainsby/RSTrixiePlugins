@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ReactionSlideToggle' target in the 'ReactionSlideToggle' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

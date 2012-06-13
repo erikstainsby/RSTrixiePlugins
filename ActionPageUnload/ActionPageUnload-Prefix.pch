@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ActionPageUnload' target in the 'ActionPageUnload' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

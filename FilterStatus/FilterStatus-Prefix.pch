@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FilterStatus' target in the 'FilterStatus' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

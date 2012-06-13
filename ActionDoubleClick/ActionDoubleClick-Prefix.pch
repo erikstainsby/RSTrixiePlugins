@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ActionDoubleClick' target in the 'ActionDoubleClick' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

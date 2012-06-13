@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ActionResize' target in the 'ActionResize' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

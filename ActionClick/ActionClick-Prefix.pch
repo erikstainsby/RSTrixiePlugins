@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ActionClick' target in the 'ActionClick' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

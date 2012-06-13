@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A1077154A1EC7001235B8"
+               BuildableName = "ActionBlur.bundle"
+               BlueprintName = "ActionBlur"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A10D9154A219C001235B8"
+               BuildableName = "ActionChange.bundle"
+               BlueprintName = "ActionChange"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A10C2154A2127001235B8"
+               BuildableName = "ActionClick.bundle"
+               BlueprintName = "ActionClick"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A10EB154A21D8001235B8"
+               BuildableName = "ActionDoubleClick.bundle"
+               BlueprintName = "ActionDoubleClick"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A1103154A2241001235B8"
+               BuildableName = "ActionDrop.bundle"
+               BlueprintName = "ActionDrop"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A1118154A2280001235B8"
+               BuildableName = "ActionFocus.bundle"
+               BlueprintName = "ActionFocus"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A112D154A2682001235B8"
+               BuildableName = "ActionKeyDown.bundle"
+               BlueprintName = "ActionKeyDown"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "031A1142154A26B2001235B8"
+               BuildableName = "ActionKeyPress.bundle"
+               BlueprintName = "ActionKeyPress"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03568629154A27C900D6F50A"
+               BuildableName = "ActionKeyUp.bundle"
+               BlueprintName = "ActionKeyUp"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0356863D154A281200D6F50A"
+               BuildableName = "ActionMouseDown.bundle"
+               BlueprintName = "ActionMouseDown"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03568651154A295F00D6F50A"
+               BuildableName = "ActionMouseOut.bundle"
+               BlueprintName = "ActionMouseOut"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03568665154A29B200D6F50A"
+               BuildableName = "ActionMouseOver.bundle"
+               BlueprintName = "ActionMouseOver"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03568679154A29E400D6F50A"
+               BuildableName = "ActionMouseUp.bundle"
+               BlueprintName = "ActionMouseUp"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0356868D154A2A1500D6F50A"
+               BuildableName = "ActionPageLoad.bundle"
+               BlueprintName = "ActionPageLoad"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "035686A1154A2A4500D6F50A"
+               BuildableName = "ActionPageUnload.bundle"
+               BlueprintName = "ActionPageUnload"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "035686B5154A2A7900D6F50A"
+               BuildableName = "ActionResize.bundle"
+               BlueprintName = "ActionResize"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "035686C5154A2A8500D6F50A"
+               BuildableName = "ActionScroll.bundle"
+               BlueprintName = "ActionScroll"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "035686D5154A2A9100D6F50A"
+               BuildableName = "ActionSelect.bundle"
+               BlueprintName = "ActionSelect"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "035686E5154A2A9C00D6F50A"
+               BuildableName = "ActionSubmit.bundle"
+               BlueprintName = "ActionSubmit"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42A97154A30F4003E0A5C"
+               BuildableName = "FilterClass.bundle"
+               BlueprintName = "FilterClass"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42AA7154A3103003E0A5C"
+               BuildableName = "FilterStatus.bundle"
+               BlueprintName = "FilterStatus"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42A87154A30E2003E0A5C"
+               BuildableName = "FilterValue.bundle"
+               BlueprintName = "FilterValue"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42A73154A2EC5003E0A5C"
+               BuildableName = "NotImplementedPlugin.bundle"
+               BlueprintName = "NotImplementedPlugin"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42AC4154A32F9003E0A5C"
+               BuildableName = "ReactionAnimate.bundle"
+               BlueprintName = "ReactionAnimate"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42AD4154A3309003E0A5C"
+               BuildableName = "ReactionClassAdd.bundle"
+               BlueprintName = "ReactionClassAdd"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42AE4154A3314003E0A5C"
+               BuildableName = "ReactionClassRemove.bundle"
+               BlueprintName = "ReactionClassRemove"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42AF4154A3320003E0A5C"
+               BuildableName = "ReactionClassToggle.bundle"
+               BlueprintName = "ReactionClassToggle"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B04154A3334003E0A5C"
+               BuildableName = "ReactionFadeIn.bundle"
+               BlueprintName = "ReactionFadeIn"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B14154A3340003E0A5C"
+               BuildableName = "ReactionFadeOut.bundle"
+               BlueprintName = "ReactionFadeOut"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B24154A334A003E0A5C"
+               BuildableName = "ReactionFadeTo.bundle"
+               BlueprintName = "ReactionFadeTo"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B34154A3354003E0A5C"
+               BuildableName = "ReactionFadeToggle.bundle"
+               BlueprintName = "ReactionFadeToggle"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B44154A3362003E0A5C"
+               BuildableName = "ReactionHide.bundle"
+               BlueprintName = "ReactionHide"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B54154A3370003E0A5C"
+               BuildableName = "ReactionShow.bundle"
+               BlueprintName = "ReactionShow"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B74154A339D003E0A5C"
+               BuildableName = "ReactionSlideDown.bundle"
+               BlueprintName = "ReactionSlideDown"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B84154A33AA003E0A5C"
+               BuildableName = "ReactionSlideToggle.bundle"
+               BlueprintName = "ReactionSlideToggle"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B94154A33B4003E0A5C"
+               BuildableName = "ReactionSlideUp.bundle"
+               BlueprintName = "ReactionSlideUp"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03C42B64154A338D003E0A5C"
+               BuildableName = "ReactionToggle.bundle"
+               BlueprintName = "ReactionToggle"
+               ReferencedContainer = "container:RSTrixiePlugins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
